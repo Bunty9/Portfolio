@@ -1,15 +1,16 @@
 ---
-date: "2021-04-16"
+date: "2021-02-16"
 title: "Spotify Clone"
-cover: "./chat.png"
-github: "https://github.com/Bunty9/Chat_NextJs"
-external: "https://chatapp-phi.vercel.app/"
+cover: "./spotify.png"
+github: "https://github.com/Bunty9/ReactJs_Spotify"
+external: "https://github.com/Bunty9/ReactJs_Spotify"
 tech:
   - javascript
   - reactjs
-  - nextjs
-  - chatapplication
+  - spotify clone
 showInProjects: true
 ---
 
-one to one chat application based on nextjs. Check out the test deployment [ChatApp](https://chatapp-phi.vercel.app/).
+A Basic Spotify FrontEnd clone built using React.
+It fetches the data from Spotify Developer Applet.
+Displays your recent playlists and songs.

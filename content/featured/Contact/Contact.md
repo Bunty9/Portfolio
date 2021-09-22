@@ -1,9 +1,9 @@
 ---
 date: "2020-09-10"
 title: "Contact Management"
-cover: "./chat.png"
+cover: "./contact.png"
 github: "https://github.com/Bunty9/NodeJs_ContactCube"
-external: ""
+external: "https://contact-cube420.herokuapp.com/"
 tech:
   - nodejs
   - express

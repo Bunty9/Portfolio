@@ -1,15 +1,15 @@
 ---
-date: "2021-04-16"
+date: "2021-01-17"
 title: "Passport Auth"
-cover: "./chat.png"
-github: "https://github.com/Bunty9/Chat_NextJs"
-external: "https://chatapp-phi.vercel.app/"
+cover: "./passport.png"
+github: "https://github.com/Bunty9/passport-google/"
+external: "https://passsport420.herokuapp.com/"
 tech:
-  - javascript
-  - reactjs
-  - nextjs
-  - chatapplication
+  - nodejs
+  - express
+  - passport-google
+  - authentication
 showInProjects: true
 ---
 
-one to one chat application based on nextjs. Check out the test deployment [ChatApp](https://chatapp-phi.vercel.app/).
+This is an Express application using Google for authentication via OAuth2 and Local Email and Password authentication. Both running simultaneously

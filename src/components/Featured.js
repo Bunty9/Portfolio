@@ -278,13 +278,13 @@ const StyledProject = styled.li`
 		.img {
 			border-radius: var(--border-radius);
 			mix-blend-mode: multiply;
-			filter: grayscale(100%) contrast(1) brightness(90%);
+			filter: none;
 
 			@media (max-width: 768px) {
 				object-fit: cover;
 				width: auto;
 				height: 100%;
-				filter: grayscale(100%) contrast(1) brightness(80%);
+				filter: none;
 			}
 		}
 	}
@@ -325,9 +325,6 @@ const Featured = () => {
 
 	return (
 		<section id="projects">
-			<h2 className="medium-heading">
-				Under Construction ..... will be updated soon
-			</h2>
 			<StyledProjectsGrid>
 				{featuredProjects &&
 					featuredProjects.map(({ node }, i) => {

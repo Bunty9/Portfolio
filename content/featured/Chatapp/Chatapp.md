@@ -1,5 +1,5 @@
 ---
-date: "2021-04-16"
+date: "2021-01-19"
 title: "Chat App Next Js"
 cover: "./chat.png"
 github: "https://github.com/Bunty9/Chat_NextJs"

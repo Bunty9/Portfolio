@@ -1,15 +1,15 @@
 ---
-date: "2021-04-16"
+date: "2021-01-16"
 title: "JWT Auth"
-cover: "./chat.png"
-github: "https://github.com/Bunty9/Chat_NextJs"
-external: "https://chatapp-phi.vercel.app/"
+cover: "./jwt.png"
+github: "https://github.com/Bunty9/JWT_Frontend_Reactjs.git"
+external: "https://github.com/Bunty9/JWT_Backend_nodejs"
 tech:
   - javascript
   - reactjs
   - nextjs
-  - chatapplication
+  - jwt auth
 showInProjects: true
 ---
 
-one to one chat application based on nextjs. Check out the test deployment [ChatApp](https://chatapp-phi.vercel.app/).
+JWT method of authentication implemented on react js app with nodejs backend [server](https://github.com/Bunty9/JWT_Backend_nodejs)

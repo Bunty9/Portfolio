@@ -1,15 +1,15 @@
 ---
-date: "2021-04-16"
+date: "2021-01-13"
 title: "URL Shortner"
-cover: "./chat.png"
-github: "https://github.com/Bunty9/Chat_NextJs"
-external: "https://chatapp-phi.vercel.app/"
+cover: "./url.png"
+github: "https://github.com/Bunty9/NodeJs_url-shortner"
+external: "https://url-shortner420.herokuapp.com/"
 tech:
   - javascript
   - reactjs
   - nextjs
-  - chatapplication
+  - url shortner
 showInProjects: true
 ---
 
-one to one chat application based on nextjs. Check out the test deployment [ChatApp](https://chatapp-phi.vercel.app/).
+url shortner based on NodeJS and Mongodb

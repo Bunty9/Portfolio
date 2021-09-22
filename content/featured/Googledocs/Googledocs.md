@@ -1,5 +1,5 @@
 ---
-date: "2021-04-23"
+date: "2021-01-18"
 title: "Google Docs Clone"
 cover: "./docs.png"
 github: "https://github.com/Bunty9/Google-docs-frontend"
