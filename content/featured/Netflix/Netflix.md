@@ -3,7 +3,7 @@ date: "2021-02-17"
 title: "ReactJs Neflix Clone"
 cover: "./netflix.png"
 github: "https://github.com/Bunty9/Netflix"
-external: "https://netflixx-420.web.app/"
+external: "https://netflix-bunty9.vercel.app"
 tech:
   - javascript
   - reactjs
